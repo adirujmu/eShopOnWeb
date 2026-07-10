@@ -3,7 +3,7 @@ kind: Namespace
 etadata:
   namespace: eshoponweb-user025
 
------------------------------
+---
 
 apiVersion: apps/v1
 kind: Deployment
